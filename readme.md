@@ -13,5 +13,3 @@
 - Para o VS Code, estarei usando algumas extensões em específico:
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para abrir um servidor local e ter o tempo de atualização em tempo real;
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para organização semantica e formatação dos códigos;
-
----
