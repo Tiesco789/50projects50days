@@ -19,12 +19,14 @@ const colors = {
 
 const main_types = Object.keys(colors)
 
+  //teste
+
 const fetchPokemons = async () => {
   for (let i = 1; i <= pokemon_count; i++) {
     await getPokemon(i)
   }
 }
-
+// teste comentario
 const getPokemon = async (id) => {
   const url = `https://pokeapi.co/api/v2/pokemon/${id}`;
   const res = await fetch(url);
